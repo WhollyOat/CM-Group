@@ -2,6 +2,7 @@
 
 This is the official implementation of our CVPR2023 paper 'Similarity Metric Learning For RGB-Infrared Group Re-Identification'.
 
-Download the dataset from Google Drive or from [Baidu Netdisk](https://pan.baidu.com/s/14G-euvFuCan0EWaLUIae_g) (password: 513v ).
+**Note:**
+To access the dataset, please first send a signed agreement copy to silverpride@icloud.com to get the download link.
 
 The code will be released soon.
